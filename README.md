@@ -1,3 +1,10 @@
+# 立ち上げ方
+1. git clone git@github.com:togswr/svelte-dodosuko.git
+2. cd svelte-dodosuko
+3. npm install
+4. npm run dev
+5. 表示されるポート番号でブラウザにアクセス
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
